@@ -4,3 +4,4 @@ Demo GIT
 ## Information
 
 - Teacher: Nguyen Duc Huy
+- Department: Software Engineering
