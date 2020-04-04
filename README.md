@@ -4,4 +4,5 @@ Demo GIT
 ## Information
 
 - Teacher: Nguyen Duc Huy
+- Department: Software Engineering
 - Skill: Software Design, Web, Mobile
