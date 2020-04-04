@@ -5,4 +5,4 @@ Demo GIT
 
 - Teacher: Nguyen Duc Huy
 - Department: Software Engineering
-- Skill: Software Design, Web, Mobile
+- Skill: Software Design, Web, iOS, Android, Flutter, React...
